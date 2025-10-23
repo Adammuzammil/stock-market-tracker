@@ -3,7 +3,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div>
+    <div className="flex max-h-screen home-wrapper">
       <Button>Click Me</Button>
     </div>
   );
